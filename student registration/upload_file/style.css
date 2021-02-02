@@ -1,0 +1,78 @@
+ *
+          {
+             
+              margin: 0;
+              box-sizing: border-box;
+          }
+            .navbar
+          {
+              padding: 2px 16px;
+          }
+          .main-div
+          {
+           background-color:gainsboro;
+      
+              height: 100vh;
+              padding: 0;
+          }
+          h1
+          {
+              font-family: Cooper Black;
+              padding-top: 10px;
+              font-size: 30px;
+              font-weight: 200px;
+          }
+          h3
+          {
+              font-family: Comic Sans MS;
+          }
+          #username
+          {
+              font-size: 25px;
+              font-family: Comic Sans MS;
+              color: white;
+          }
+          .form
+          {
+              padding: 20px;
+              height: 100%;
+              background-color: white;
+              box-shadow:1px 5px 13px 0px #4b4747c7;
+              box-sizing: border-box;
+          }
+          .user-info
+          {
+              width: 100%;
+              height: 40px;
+              /*background-color:#ef6d0ec4;*/
+              background-color: #ef6603;
+              border-radius: 5px;
+          }
+          .user-info h3
+          {
+              color: white;
+              text-align: center;
+          }
+          .next-btn
+          {
+             
+              width: 100%;
+              height: 50px;
+          }
+          .upload-btn
+          {
+              width: 100px;
+              height: 40px;
+              border-radius: 5px;
+              margin: 10px!important;
+          }
+          .upload
+          {
+               
+              width: 100%;
+              height: 50px;
+          }
+          .next
+          {
+              float: right;
+          }
